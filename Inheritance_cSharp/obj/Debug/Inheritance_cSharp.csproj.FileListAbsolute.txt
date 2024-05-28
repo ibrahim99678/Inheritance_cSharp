@@ -1,0 +1,7 @@
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\Inheritance_cSharp\Inheritance_cSharp\bin\Debug\Inheritance_cSharp.exe.config
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\Inheritance_cSharp\Inheritance_cSharp\bin\Debug\Inheritance_cSharp.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\Inheritance_cSharp\Inheritance_cSharp\bin\Debug\Inheritance_cSharp.pdb
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\Inheritance_cSharp\Inheritance_cSharp\obj\Debug\Inheritance_cSharp.csproj.AssemblyReference.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\Inheritance_cSharp\Inheritance_cSharp\obj\Debug\Inheritance_cSharp.csproj.CoreCompileInputs.cache
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\Inheritance_cSharp\Inheritance_cSharp\obj\Debug\Inheritance_cSharp.exe
+D:\PGD03_PeopleNTech_Wasington_University\M_02_C#_All_Class\practice\BroCode\Inheritance_cSharp\Inheritance_cSharp\obj\Debug\Inheritance_cSharp.pdb
